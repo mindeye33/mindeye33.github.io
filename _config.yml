@@ -14,8 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 #source: about
-title: Abdulrahman Aldossary
-email: aaldossary + berkeley + edu
+# title: Abdulrahman Aldossary
+title: meet.abaldo.link
+# email: aaldossary + berkeley + edu
 description: >- # this means to ignore newlines until "baseurl:"
    Reach out! I like meeting new people.
 #  Write an awesome description for your new site here. You can edit this
@@ -23,17 +24,37 @@ description: >- # this means to ignore newlines until "baseurl:"
 #  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "meet.abaldo.link" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: an_dossary
-github_username:  mindeye33
-linkedin_username: aldossaryabdulrahman
-googlescholar_username: XkLnFHMAAAAJ
 
+author:
+  name: Abdulrahman Aldossary
+  email: aaldossary + berkeley + edu
+
+# twitter_username: an_dossary
+# github_username:  mindeye33
+# linkedin_username: aldossaryabdulrahman
+# googlescholar_username: XkLnFHMAAAAJ
+
+minima:
+  social_links:
+    - platform: twitter
+      user_url: https://www.twitter.com/an_dossary
+    - platform: github
+      user_url: https://github.com/mindeye33
+    - platform: linkedin
+      user_url: https://www.linkedin.com/in/aldossaryabdulrahman
+    - platform: google_scholar
+      user_url: https://scholar.google.com/citations?user=XkLnFHMAAAAJ&hl=en
 
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
+
+# minima:
+#   theme:
+#     dark
+
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
