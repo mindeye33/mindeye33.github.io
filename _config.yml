@@ -47,11 +47,16 @@ minima:
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 
 # minima:
 #   theme:
 #     dark
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
 
 # plugins:
 #   - jekyll-feed
