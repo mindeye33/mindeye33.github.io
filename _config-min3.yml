@@ -41,22 +41,17 @@ minima:
     - platform: github
       user_url: https://github.com/mindeye33
     - platform: linkedin
-      user_url: https://www.linkedin.com/in/aldossaryabdulrahman/
+      user_url: https://www.linkedin.com/in/aldossaryabdulrahman
     - platform: google_scholar
       user_url: https://scholar.google.com/citations?user=XkLnFHMAAAAJ&hl=en
 
 # Build settings
 markdown: kramdown
-# theme: minima
+theme: minima
 
 # minima:
 #   theme:
 #     dark
-
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: jekyll/minima
 
 # plugins:
 #   - jekyll-feed
