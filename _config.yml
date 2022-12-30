@@ -44,6 +44,8 @@ minima:
       user_url: https://www.linkedin.com/in/aldossaryabdulrahman/
     - platform: google_scholar
       user_url: https://scholar.google.com/citations?user=XkLnFHMAAAAJ&hl=en
+    - platform: instagram
+      user_url: https://www.instagram.com/abdulrahman.n.d/
 
 # Build settings
 markdown: kramdown
@@ -52,6 +54,9 @@ markdown: kramdown
 # minima:
 #   theme:
 #     dark
+
+google_analytics: G-4LGBN4QPEG
+
 
 plugins:
   - jekyll-remote-theme
