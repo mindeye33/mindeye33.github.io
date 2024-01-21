@@ -154,14 +154,15 @@ permalink: /CV/
 <h4 class="alignleft"><em>Postdoctoral Fellowship Award</em></h4>
 <h4 class="alignright">July 2023 – July 2026</h4>
 **KAUST Ibn Rushd Postdoctoral Fellowship**, Thuwal, Saudi Arabia
-Awarded \$300,000 over 3 years to conduct research
+
+###### Awarded \$300,000 over 3 years to conduct research
 
 <!-- #### *Mentor* Fall 2021 -->
 <h4 class="alignleft"><em>Mentor</em></h4>
 <h4 class="alignright">Fall 2021</h4>
 **Transfer Student Mentorship Program**, Berkeley, CA
 
-Mentored two transfer students to find research positions in the Chemistry department
+###### Mentored two transfer students to find research positions in the Chemistry department
 
 <!-- #### *Course Material Reviewer* Fall 2020 -->
 <h4 class="alignleft"><em>Course Material Reviewer</em></h4>
@@ -169,14 +170,14 @@ Mentored two transfer students to find research positions in the Chemistry depar
 **Molecular Science and Software Engineering Master's program**,
 Berkeley, CA
 
-Reviewed materials and gave feedback for a new 4-unit graduate course at UC Berkeley
+###### Reviewed materials and gave feedback for a new 4-unit graduate course at UC Berkeley
 
 <!-- #### *Event Coordinator & graduate ambassador* Fall 2019 - Spring 2022 -->
 <h4 class="alignleft"><em>Event coordinator & graduate ambassador</em></h4>
 <h4 class="alignright">Fall 2019 - Spring 2022</h4>
 **Saudi Arabian Association at Berkeley**, Berkeley, CA
 
-Organized events to include the Saudi community within UC Berkeley and ensure their inclusivity
+######  Organized events to include the Saudi community within UC Berkeley and ensure their inclusivity
 
 <!-- #### *Capstone Project "Board Choice" Award* Spring 2015 -->
 <h4 class="alignleft"><em>Capstone Project "Board Choice" Award</em></h4>
