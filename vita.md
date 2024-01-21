@@ -6,15 +6,19 @@ permalink: /CV/
 
 ### **EDUCATION**
 
-#### **University of California-Berkeley**, *Ph.D. Physical Chemistry*, Dec 2022
+#### **University of California, Berkeley** &emsp;&emsp; Dec 2022
+#### *Ph.D. Chemistry*
 
-> **Coursework:** 
-> * CS: Artificial Intelligence, Efficient Algorithms and Data Structures
-> * Phys: Quantum Information 
-> * Math: Applied Mathematics: Electronic Structure
-> * Chem: Advanced Quantum Mechanics, Statistical Mechanics & Chemical Kinetics
+> **Thesis:** Molecular Orbitals and Where to Find Them
+>
+> **Advisor:** Prof. Martin Head-Gordon
+>
+> **Coursework:** Artificial Intelligence, Quantum Information,
+> Efficient Algorithms, Applied Mathematics: Electronic Structure,
+> Advanced Quantum Mechanics, Statistical Mechanics & Chemical Kinetics
 
-#### **Oregon State University**, *Honors B.S. Chemical Engineering*, June 2015, GPA: 3.81
+#### **Oregon State University** &emsp;&emsp; June 2015
+#### *Honors B.S. Chemical Engineering*
 
 > **Focus:** Microelectronics Processes and Materials Science
 >
@@ -24,106 +28,106 @@ permalink: /CV/
 >
 > **Minor:** Business and Entrepreneurship
 
-### **RESEARCH EXPERIENCE**
+### **PROFESSIONAL**
 
-#### *Graduate Student Researcher*, 2017-2022
-**Prof. Martin Head-Gordon's Research Group**, Berkeley, CA
-- Development of novel electronic structure methods for chemical reactivity. 
-- Please refer to the publications section for more details.
+#### ***Postdoctoral Fellow*** &emsp;&emsp; Aug 2023 – Present
+University of Toronto, Toronto, Canada
 
-#### *Visiting Scholar*, 2015-2017
-**Prof. Omar M. Yaghi\'s Laboratory**, Berkeley, CA
+* Leveraging machine learning and artificial intelligence to accelerate common quantum chemistry simulations
 
-- Synthesized a novel metal-organic framework (MOF) material for gas separation applications
-- Designed and built a water-harvesting MOF prototype and optimized energy input
+#### ***Postdoctoral Research Scientist*** &emsp;&emsp; Jan 2023 – May 2023
+Q-Chem Inc., Pleasanton, CA
+* Modernized a library (libloco) in the Q-Chem software package
+* Helped with supporting developers relevant to 5 research articles
 
-#### *Undergraduate Research Assistant*, 2015
+#### ***Visiting Scholar*** &emsp;&emsp; Jan 2016 – Mar 2017
+Yaghi Lab, Berkeley, CA
 
-**Prof. Gregory S. Herman\'s Laboratory**, Corvallis, OR
-
-- Optimized the synthesis of Ni-MOF-74 using batch microwave reactor to achieve higher crystallinity
-- Analyzed optimization results using characterization techniques such as X-ray diffraction and Raman spectroscopy
+* Synthesized a novel metal-organic framework (MOF) material for gas separation applications
+* Designed, planned, and set up a new laboratory facility at KACST
 
 ### **PUBLICATIONS (\*CO-AUTHOR)**
 
-1. J. Yang, Y. Zhang, Q. Liu, C. A. Trickett, E. Gutierrez-Puebla, M.
-    Á. Monge, H. Cong, **A. Aldossary**, H. Deng, O. M. Yaghi,
-    "Principles of designing extra-large pore openings and cages in
-    zeolitic imidazolate frameworks" *J. Am. Chem. Soc.,* 139,
-    6448--6455, 2017
+1.  P. Schleich, L. B. Kristensen, D. Avagliano, M. Bagherimehrab, **A.
+    Aldossary**, C. Gorgulla, J. Fitzsimons, A. Aspuru-Guzik,
+    “Chemically Motivated Simulation Problems are Efficiently Solvable
+    by a Quantum Computer” *arXiv.* DOI: 10.48550/arXiv.2401.09268
 
-2. A. K. Das, L. Urban, I. Leven, M. Loipersberger, **A.
-    Aldossary**, M. Head-Gordon, T. Head-Gordon, "Development of an
-    advanced force field for water using variational energy
-    decomposition analysis" *J. Chem. Theory Comput.*, 15, 5001−5013,
-    2019
+2.  A. J. Sterling, D. S. Levine, **A. Aldossary**, M. Head-Gordon,
+    “Chemical bonding and the role of node-induced electron confinement”
+    *ChemRxiv.* DOI: 10.26434/chemrxiv-2023-1lprg
 
-3. E. Epifanovsky et al. "Software for the frontiers of quantum
-    chemistry: An overview of developments in the Q-Chem 5 package" *J.
-    Chem. Phys.*, 155, 084801, 2021
+3.  Z. Wang, **A. Aldossary**, T. Shi, Y. Liu, X. S. Li, M. Head-Gordon,
+    “Local Second-Order Møller–Plesset Theory with a Single Threshold
+    Using Orthogonal Virtual Orbitals: Theory, Implementation, and
+    Assessment” *J. Chem. Theory Comput.*, 19, 21, 7577-7591, 2023
 
-4. M. Gimferrer\*, **A. Aldossary\***, P. Salvador, M. Head-Gordon,
-    "Oxidation state localized orbitals: A method for assigning
+4.  **A. Aldossary**, M. Gimferrer, Y. Mao, H. Hao, A. K. Das, P.
+    Salvador, T. Head-Gordon, M. Head-Gordon, “Force Decomposition
+    Analysis: A method to decompose intermolecular forces into
+    physically relevant component contributions” *J. Phys. Chem. A*,
+    127, 7, 1760-1774, 2023
+
+5.  Z. Wang\*, **A. Aldossary\***, M. Head-Gordon, “Sparsity of the
+    Electron Repulsion Integral Tensor Using Different Localized Virtual
+    Orbital Representations in Local Second Order Møller-Plesset Theory”
+    *J. Chem. Phys.*, 158, 064105, 2023
+
+6.  **A. Aldossary**, M. Head-Gordon, “Non-Iterative Method for Accurate
+    Antibonding Orbitals” *J. Chem. Phys.*, 157, 094102, 2022
+
+7.  M. Gimferrer\*, **A. Aldossary\***, P. Salvador, M. Head-Gordon,
+    “Oxidation state localized orbitals: A method for assigning
     oxidation states using optimally fragment-localized orbitals and a
-    fragment orbital localization index", *J. Chem. Theo. & Comp.*, 18,
+    fragment orbital localization index”, *J. Chem. Theo. & Comp.*, 18,
     309-322, 2021
 
-5. **A. Aldossary**, M. Head-Gordon, "Non-Iterative Method for Accurate
-    Antibonding Orbitals" *J. Chem. Phys.*, 157, 094102, 2022
+8.  E. Epifanovsky et al. “Software for the frontiers of quantum
+    chemistry: An overview of developments in the Q-Chem 5 package” *J.
+    Chem. Phys.*, 155, 084801, 2021
 
-6. **A. Aldossary**, M. Gimferrer, Y. Mao, H. Hao, A. K. Das, P.
-    Salvador, T. Head-Gordon, M. Head-Gordon, "Force Decomposition
-    Analysis: A method to decompose intermolecular forces into
-    physically relevant component contributions" Submitted to J. Phys.
-    Chem. https://doi.org/10.26434/chemrxiv-2022-4jk6h.
+9.  A. K. Das, L. Urban, I. Leven, M. Loipersberger, **A.
+    Aldossary**, M. Head-Gordon, T. Head-Gordon, “Development of an
+    advanced force field for water using variational energy
+    decomposition analysis” *J. Chem. Theory Comput.*, 15, 5001−5013,
+    2019
 
-7. Z. Wang\*, **A. Aldossary\***, M. Head-Gordon, "Sparsity of the
-    Electron Repulsion Integral Tensor Using Different Localized Virtual
-    Orbital Representations in Local Second Order Møller-Plesset Theory"
-    Submitted to *J. Chem. Phys.*
-    https://doi.org/10.26434/chemrxiv-2022-vhmq0
-
-8. **A. Aldossary**, H. Shen, K. Ikeda, M. Head-Gordon, "Faster
-    polarization functions: recovering the polarization energy in the
-    absolutely localized molecular orbitals energy decomposition
-    analysis with lower cost", *Manuscript in Preparation*
-
-9. **A. Aldossary**, A. Lara, A. Sterling, M. Head-Gordon, "On the
-    importance of charge transfer for chalcogen bonding interactions",
-    *Manuscript in Preparation*
-
-10. **A. Aldossary**, S. Huber, M. Head-Gordon, "Separating the
-    polarization energy from charge transfer in halogen bonding",
-    *Manuscript in Preparation*
-
-11. **A. Aldossary**, C. Mackie, M. Head-Gordon, "Dispersion-specific
-    orbitals for Moller-Plesset perturbation theory", *Manuscript in
-    Preparation*
+10. J. Yang, Y. Zhang, Q. Liu, C. A. Trickett, E. Gutierrez-Puebla, M.
+    Á. Monge, H. Cong, **A. Aldossary**, H. Deng, O. M. Yaghi,
+    “Principles of designing extra-large pore openings and cages in
+    zeolitic imidazolate frameworks” *J. Am. Chem. Soc.,* 139,
+    6448–6455, 2017
 
 ### **PRESENTATIONS**
-1. **A. Aldossary**, C. Mackie, M. Head-Gordon, "Uncoupled
-    electric-field response functions and their applications" ACTC 2022
+
+1.  **A. Aldossary**, “Molecular Orbitals and Where to Find Them”,
+    Invited Talk at King Abdullah University of Science and Technology
+    (KAUST) hosted by Prof. Luigi Cavallo, June 2023
+
+2.  **A. Aldossary**, C. Mackie, M. Head-Gordon, “Uncoupled
+    electric-field response functions and their applications” ACTC 2022
     poster session
 
-2. **A. Aldossary**, M. Head-Gordon, "Non-Iterative Method for Accurate
-    Antibonding Orbitals" MQM 2022 poster session
+3.  **A. Aldossary**, M. Head-Gordon, “Non-Iterative Method for Accurate
+    Antibonding Orbitals” MQM 2022 poster session
 
-3. **A. Aldossary**, M. Head-Gordon, "Non-Iterative Method for Accurate
-    Antibonding Orbitals" ACS Spring 2022 poster session
+4.  **A. Aldossary**, M. Head-Gordon, “Non-Iterative Method for Accurate
+    Antibonding Orbitals” ACS Spring 2022 poster session
 
-4. **A. Aldossary**, Y. Mao, M. Gimferrer, A. K. Das, P. Salvador, T.
-    Head-Gordon, M. Head-Gordon "Force Decomposition Analysis", Oral
+5.  **A. Aldossary**, Y. Mao, M. Gimferrer, A. K. Das, P. Salvador, T.
+    Head-Gordon, M. Head-Gordon “Force Decomposition Analysis”, Oral
     presentation at ACS Fall 2021 conference as well as an invited
     poster for Sci-Mix at the ACS Fall 2021 conference
 
-5. **A. Aldossary**, Y. Mao, M. Gimferrer, A. K. Das, P. Salvador, T.
-    Head-Gordon, M. Head-Gordon "Force Decomposition Analysis to
-    understand chemical reactivity", Presentation at the IUPAC \| CCCE
+6.  **A. Aldossary**, Y. Mao, M. Gimferrer, A. K. Das, P. Salvador, T.
+    Head-Gordon, M. Head-Gordon “Force Decomposition Analysis to
+    understand chemical reactivity”, Presentation at the IUPAC \| CCCE
     2021 virtual conference
 
-6. **A. Aldossary**, G. Albuquerque, G. Herman, "Microwave-Assisted
-    Synthesis and Chemical Modulation of MOF-74-Ni" University Honors
-    College Thesis Fair, Spring **2015**.
+7.  **A. Aldossary**, G. Albuquerque, G. Herman, “Microwave-Assisted
+    Synthesis and Chemical Modulation of MOF-74-Ni” University Honors
+    College Thesis Fair, Spring 2015.
+
 
 ### **TEACHING**
 
@@ -138,6 +142,10 @@ permalink: /CV/
   Taught 150 chemistry students quantum mechanics and held weekly office hours
 
 ### **AWARDS & ACTIVITIES**
+
+### *Postdoctoral Fellowship Award* July 2023 – July 2026
+**KAUST Ibn Rushd Postdoctoral Fellowship**, Thuwal, Saudi Arabia
+- Awarded \$300,000 over 3 years to conduct research
 
 #### *Mentor* Fall 2021
 
@@ -165,8 +173,3 @@ Organized events to include the Saudi community within UC Berkeley and ensure th
 #### *Founding Member and President* Spring 2013-Spring 2015
 
 **Materials Research Society - OSU Chapter**, Corvallis, OR
-
-- Served as President for 2014-2015 academic year, in which the governing body was restructured and the club website was revamped
-- Fostered students' involvement in materials research by arranging four campus laboratory tours
-- Developed club meeting agendas, which included graduate students sharing their research work
-- Arranged and supervised two events to educate both adults and children using materials science principles with 100 attendants

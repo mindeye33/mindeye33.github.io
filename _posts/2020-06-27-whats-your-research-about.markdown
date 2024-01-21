@@ -2,7 +2,7 @@
 layout: post
 title:  "What's your research about?"
 date:   2020-6-27 14:44:00 -0800
-# categories: jekyll update
+permalink: /blog/whats-your-research-about/
 ---
 
 I have been asked this questions by many friends and family, and I struggle to put my thoughts together. I am partly staring at them to know if they genuinely want to know or just being nice, but also partly trying to condense my thoughts into few sentences based on the other person's familiarity with the subject. My attempt here is to write about my research in growing levels of complexity by paragraph, meaning the reader can stop at end of each paragraph without a half thought. 
