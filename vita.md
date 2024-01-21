@@ -1,23 +1,27 @@
 ---
-layout: page
+layout: vita
 title: Curriculum Vitae
 permalink: /CV/
 ---
 
 ### **EDUCATION**
 
-#### **University of California, Berkeley** &emsp;&emsp; Dec 2022
+<!-- #### **University of California, Berkeley** &emsp;&emsp; Dec 2022 -->
+<h4 class="alignleft"><strong>University of California, Berkeley</strong></h4>
+<h4 class="alignright">Dec 2022</h4>    
 #### *Ph.D. Chemistry*
 
 > **Thesis:** Molecular Orbitals and Where to Find Them
 >
-> **Advisor:** Prof. Martin Head-Gordon
+> **Advisor:** Prof. Martin Head-Gordon  
 >
 > **Coursework:** Artificial Intelligence, Quantum Information,
 > Efficient Algorithms, Applied Mathematics: Electronic Structure,
 > Advanced Quantum Mechanics, Statistical Mechanics & Chemical Kinetics
 
-#### **Oregon State University** &emsp;&emsp; June 2015
+<!-- #### **Oregon State University** &emsp;&emsp; June 2015 -->
+<h4 class="alignleft"><strong>Oregon State University</strong></h4>
+<h4 class="alignright">June 2015</h4>
 #### *Honors B.S. Chemical Engineering*
 
 > **Focus:** Microelectronics Processes and Materials Science
@@ -30,18 +34,23 @@ permalink: /CV/
 
 ### **PROFESSIONAL**
 
-#### ***Postdoctoral Fellow*** &emsp;&emsp; Aug 2023 – Present
-University of Toronto, Toronto, Canada
-
+<!-- #### ***Postdoctoral Fellow*** &emsp;&emsp; Aug 2023 – Present -->
+<h4 class="alignleft"><strong>Postdoctoral Fellow</strong></h4>
+<h4 class="alignright">Aug 2023 – Present</h4>
+#### University of Toronto, Toronto, Canada
 * Leveraging machine learning and artificial intelligence to accelerate common quantum chemistry simulations
 
-#### ***Postdoctoral Research Scientist*** &emsp;&emsp; Jan 2023 – May 2023
-Q-Chem Inc., Pleasanton, CA
+<!-- #### ***Postdoctoral Research Scientist*** &emsp;&emsp; Jan 2023 – May 2023 -->
+<h4 class="alignleft"><strong>Postdoctoral Research Scientist</strong></h4>
+<h4 class="alignright">Jan 2023 – May 2023</h4>
+#### Q-Chem Inc., Pleasanton, CA
 * Modernized a library (libloco) in the Q-Chem software package
 * Helped with supporting developers relevant to 5 research articles
 
-#### ***Visiting Scholar*** &emsp;&emsp; Jan 2016 – Mar 2017
-Yaghi Lab, Berkeley, CA
+<!-- #### ***Visiting Scholar*** &emsp;&emsp; Jan 2016 – Mar 2017 -->
+<h4 class="alignleft"><strong>Visiting Scholar</strong></h4>
+<h4 class="alignright">Jan 2016 – Mar 2017</h4>
+#### Yaghi Lab, Berkeley, CA
 
 * Synthesized a novel metal-organic framework (MOF) material for gas separation applications
 * Designed, planned, and set up a new laboratory facility at KACST
@@ -131,45 +140,50 @@ Yaghi Lab, Berkeley, CA
 
 ### **TEACHING**
 
-#### *Graduate Student Instructor*, University of California, Berkeley
+<!-- #### ***Graduate Student Instructor*** &emsp;&emsp; Aug 2017 – May 2020 -->
+<h4 class="alignleft"><strong>Graduate Student Instructor</strong></h4>
+<h4 class="alignright">Aug 2017 – May 2020</h4>
+#### University of California, Berkeley
 
-* **Chem1AL**, Fall 2017:
-
-  Taught 60 students general chemistry laboratory and held weekly office hours
-
-* **Chem 120A**, Spring 2019 & Spring 2020:
-
-  Taught 150 chemistry students quantum mechanics and held weekly office hours
+* **Chem1AL**, Fall 2017: Taught 60 students general chemistry laboratory and held weekly office hours
+* **Chem 120A**, Spring 2019 & Spring 2020: Taught 150 chemistry students quantum mechanics and held weekly office hours
 
 ### **AWARDS & ACTIVITIES**
 
-### *Postdoctoral Fellowship Award* July 2023 – July 2026
+<!-- #### *Postdoctoral Fellowship Award* July 2023 – July 2026 -->
+<h4 class="alignleft"><em>Postdoctoral Fellowship Award</em></h4>
+<h4 class="alignright">July 2023 – July 2026</h4>
 **KAUST Ibn Rushd Postdoctoral Fellowship**, Thuwal, Saudi Arabia
-- Awarded \$300,000 over 3 years to conduct research
+Awarded \$300,000 over 3 years to conduct research
 
-#### *Mentor* Fall 2021
-
+<!-- #### *Mentor* Fall 2021 -->
+<h4 class="alignleft"><em>Mentor</em></h4>
+<h4 class="alignright">Fall 2021</h4>
 **Transfer Student Mentorship Program**, Berkeley, CA
 
 Mentored two transfer students to find research positions in the Chemistry department
 
-#### *Course Material Reviewer* Fall 2020
-
+<!-- #### *Course Material Reviewer* Fall 2020 -->
+<h4 class="alignleft"><em>Course Material Reviewer</em></h4>
+<h4 class="alignright">Fall 2020</h4>
 **Molecular Science and Software Engineering Master's program**,
 Berkeley, CA
 
 Reviewed materials and gave feedback for a new 4-unit graduate course at UC Berkeley
 
-#### *Event Coordinator and graduate ambassador* Fall 2019-Spring 2022
-
+<!-- #### *Event Coordinator & graduate ambassador* Fall 2019 - Spring 2022 -->
+<h4 class="alignleft"><em>Event coordinator & graduate ambassador</em></h4>
+<h4 class="alignright">Fall 2019 - Spring 2022</h4>
 **Saudi Arabian Association at Berkeley**, Berkeley, CA
 
 Organized events to include the Saudi community within UC Berkeley and ensure their inclusivity
 
-#### *Capstone Project "Board Choice" Award* Spring 2015
-
+<!-- #### *Capstone Project "Board Choice" Award* Spring 2015 -->
+<h4 class="alignleft"><em>Capstone Project "Board Choice" Award</em></h4>
+<h4 class="alignright">Spring 2015</h4>
 **CBEE Industry Advisory Board**, Corvallis, OR
 
-#### *Founding Member and President* Spring 2013-Spring 2015
-
+<!-- #### *Founding Member and President* Spring 2013-Spring 2015 -->
+<h4 class="alignleft"><em>Founding Member and President</em></h4>
+<h4 class="alignright">Spring 2013-Spring 2015</h4>
 **Materials Research Society - OSU Chapter**, Corvallis, OR
