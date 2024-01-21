@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "What's your research about?"
+title:  "What's your PhD research about?"
 date:   2020-6-27 14:44:00 -0800
-permalink: /blog/whats-your-research-about/
+permalink: /blog/whats-your-phd-research-about/
 ---
 
 I have been asked this questions by many friends and family, and I struggle to put my thoughts together. I am partly staring at them to know if they genuinely want to know or just being nice, but also partly trying to condense my thoughts into few sentences based on the other person's familiarity with the subject. My attempt here is to write about my research in growing levels of complexity by paragraph, meaning the reader can stop at end of each paragraph without a half thought. 
 
-I am doing my PhD in Chemistry in University of California, Berkeley. I am specializing in theoretical chemistry, a way in which we can use computers to model chemicals to predict molecular structures, properties, or even reactivity. Basically anything that a chemistry care about in the lab, we try to do it with a computer.
+I am doing my PhD in Chemistry in University of California, Berkeley. I am specializing in theoretical chemistry, a way in which we can use computers to model chemistry to predict molecular structures, properties, and reactivity. Basically anything that a chemist care about in the lab, we try to do it with a computer.
 
 Despite what the major "chemistry" suggests, my research is about applying physical equations on molecules. This leads us to quantum mechanics, which is why we are often called *quantum chemists*. In particular, we like to treat nuclei with classical mechanics and electrons with quantum mechanics. And because the classical part is very easy, most of our work on electrons and their shapes which is why we are also called *electronic structure* theorists.
 
@@ -17,4 +17,4 @@ Identical particles in quantum mechanics are indistinguishable and thus are enta
 
 Luckily, approximations have been developed and one of the most famous ones scales $\mathcal{O}(n^4)$, which means a calculation that takes an hour, doubling its size will take 16 times longer. People have been working on approximations for solving the Schrodinger equation and corrections to the approximations from a physical point of view, which best sits between applied mathematics and physics. But it turns out the basic principles and concepts of chemistry work so well to give even better approximations.
 
-The Schrodinger equation simply describes the energy components, and its solution predicts energy contained within a system. It turns out solving the energy, one can find many other things. The simplest to think about here is reactivity. We have a set of coordinates of nuclei that transform one set of molecules to a new set of molecules, finding the path with the lowest energy change tells us how fast a reaction happens and how much energy it needs. This means we can predict, in theory at least, all reactions that happen to a rotten apple or those that transform oil into useful pharmaceuticals. Another one is colors, absorption of light or emission of it, can be predicted by how much energy is needed to reach a different electronic state. That being said, solving the schrodinger equation to a pixel unit of your screen can tell us the voltage needed to make it show a specific color. The list goes on.
+The Schrodinger equation simply describes the energy components, and its solution predicts energy contained within a system. It turns out solving the energy, one can find many other things. The simplest to think about here is reactivity. We have a set of coordinates of nuclei that transform one set of molecules to a new set of molecules, finding the path with the lowest energy change (action) tells us how fast a reaction happens and how much energy it needs. This means we can predict, in theory at least, all reactions that happen to a rotten apple or those that transform oil into useful pharmaceuticals. Another one is colors, absorption of light or emission of it, can be predicted by how much energy is needed to reach a different electronic state. That being said, solving the schrodinger equation to a pixel unit of your screen can tell us the voltage needed to make it show a specific color. The list goes on.
